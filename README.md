@@ -1,1 +1,1 @@
-# SCUstudent
+# C++ homework
