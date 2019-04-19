@@ -46,5 +46,6 @@ int main(){
 		hx.line7(n3);
 		hx.showMany();
 	}
+	cout<<123<<endl; 
 	return 0;
 }
